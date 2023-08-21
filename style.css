@@ -1,0 +1,59 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(174, 179, 172);
+}
+#logo
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    background-image: url(mountains-1587287_1920.jpg);
+}
+p
+{
+   color:rgb(89, 212, 18);
+   font-size: 30px; 
+}
+#camara{
+    color: rgb(40, 195, 13);
+    font-size: 20px;
+}
+#tuselfie{
+    color: rgb(47, 221, 41);
+    font-size: 20px;
+    background-color: aliceblue;
+}
+h1{
+    font-family: 'Delicious Handrawn'
+}
+.custom-shape-divider-bottom-1680641072 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1680641072 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-bottom-1680641072 .shape-fill {
+    fill: #67F119;
+}
